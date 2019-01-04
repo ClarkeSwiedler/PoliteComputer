@@ -1,0 +1,14 @@
+{
+  "name": "politecomputer",
+  "version": "1.0.0",
+  "description": "Makes your computer more polite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "thanks": "bin/thanks"
+  },
+  "author": "Clarke Swiedler",
+  "license": "ISC"
+}
